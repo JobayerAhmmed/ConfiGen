@@ -57,3 +57,8 @@
 
 # Commit Analysis
 For commit analysis, read [here](commit_parser/README.md).
+
+# Acknowledgments
+This work was funded in part by the National Science Foundation, CNS-2234908,
+CNS-2234909, CCF-1941816, and CCF-1909688.
+Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author and do not necessarily reflect the views of the National Science Foundation.
